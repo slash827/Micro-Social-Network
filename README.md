@@ -1,4 +1,4 @@
-# Micro_Social_Network
+# Micro Social Network
 The project is a micro implementation of a social network written in c++, using oop paradigms. 
 In the project you can
 create a new social network, 
